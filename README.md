@@ -153,8 +153,8 @@ flowchart LR
 # MDP Representation using Python
 # Application: Adaptive Traffic Signal Control
 
-print("Name: Sai Hrishi")
-print("Register Number: __________")
+print("Name: Sai Hrishi M")
+print("Register Number: 212224240140")
 
 S = [
     "Low_Traffic",
@@ -307,8 +307,8 @@ for state in S:
 ## Sample Output
 
 ```text
-Name: Sai Hrishi
-Register Number: __________
+Name: Sai Hrishi M
+Register Number: 21222424014
 
 States: ['Low_Traffic', 'Medium_Traffic', 'High_Traffic']
 Actions: ['Short_Green', 'Normal_Green', 'Long_Green']
